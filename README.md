@@ -1,6 +1,6 @@
-# Text Animation
+# animateText
 
-Text Animation is a vanilla function to animate every single character of a text sequentially.
+animateText is a vanilla function to animate every single character of a text sequentially.
 
 Inspired by the text effects introduced in the [Once Upon a Time in Hollywood Mag](https://www.onceuponatimemag.com).
 
