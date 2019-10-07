@@ -8,10 +8,9 @@
     <title>animateText()</title>
 
     <link rel="stylesheet" href="style.css">
-    <!-- <link rel="stylesheet" href="https://use.typekit.net/pdo5vdn.css" async> -->
+    <link rel="stylesheet" href="https://use.typekit.net/pdo5vdn.css" async>
   </head>
   <body>
-    
     <main>
       <p id="t" class="t">
         <span class="tw">Hollywood Nights</span>
@@ -19,10 +18,13 @@
       </p>
     </main>
 
-    <script src="animateText.js"></script>
-    <script>window.onload = function(e) {animateText('.tw', {
-      duration: 1000
-    });} </script>
-
+    <script src="/dist/animate-text.umd.js"></script>
+    <script>
+      window.onload = function (e) {
+        animateText('.tw', {
+          duration: 1000
+        });
+      }
+    </script>
   </body>
 </html>

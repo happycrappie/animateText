@@ -1,4 +1,5 @@
 # Text Animation
+
 Text Animation is a vanilla function to animate every single character of a text sequentially.
 
 Inspired by the text effects introduced in the [Once Upon a Time in Hollywood Mag](https://www.onceuponatimemag.com).
@@ -6,10 +7,11 @@ Inspired by the text effects introduced in the [Once Upon a Time in Hollywood Ma
 ## How to use
 
 ### Setup
+
 It's really simple. Add the script tag on your HTML.
 
 ```html
-<script src="textAnimation.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/happycrappie/animateText/dist/animate-text.umd.js"></script>
 ```
 
 Then create a `@keyframe` in CSS—that will be your animation. Eg:
@@ -31,6 +33,7 @@ Then create a `@keyframe` in CSS—that will be your animation. Eg:
 This keyframe will move the character up and slowly make it visible.
 
 ### Animate the text
+
 Then select trigger the animation on the element you want to animate.
 
 ```javascript
