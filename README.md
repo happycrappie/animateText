@@ -150,8 +150,10 @@ animateText('el', attributes);
 
 [Eryc da Silva](https://eryc.design)
 
+## Contributor
+
+[Lucas Leandro](http://lucasleandro.dev)
+
 ## License
 
 [MIT](https://github.com/happycrappie/textAnimation/blob/master/LICENSE)
-
-Copyright (c) 2019-present, Eryc da Silva.
