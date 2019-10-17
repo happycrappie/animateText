@@ -157,3 +157,5 @@ animateText('el', attributes);
 ## License
 
 [MIT](https://github.com/happycrappie/textAnimation/blob/master/LICENSE)
+
+Copyright (c) 2019-present, Eryc da Silva.
